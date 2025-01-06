@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+*{
+    
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    width: 100vw;
+    height: 100hw;
+}
+
+header{
+    background-image: linear-gradient(to bottom, darkgray, black);
+    padding: 20px 0px 20px 0px;
+    
+}
+
+main{
+    background-color: dimgray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px white;
+}
+
